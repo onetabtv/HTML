@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>YanislavStoyanov</title>
+  </head>
+  <style>
+    body {background-color: powderblue;}
+    h1   {color: blue;}
+    p    {color: red;}
+    
+</style>
+  <body>
+    <h1>Leksikon</h1>
+    <hr></hr>
+    <h2>How old are you?</h2>
+    <p>15.</p>
+    <h2>What are your favorite movies?</h2>
+    <p>The Matrix, Devil's advocate and Star Wars.</p>
+    <h2>What is your favorite actor?</h2>
+    <p>Keanu Reeves.</p>
+    <h2>Where are you from?</h2>
+    <p>I am from Burgas.<p>
+    <h2> What are your favourite games?</h2>
+    <p>League of legends, Counter Strike GO and PUBG</p>
+    <h2>What is your favourite sport?</h2>
+    <p>Football (soccer)</p>
+    <h2>Where do you study at?</h2>
+    <p>PGKPI</p>
+  </body>
+</html>
