@@ -1,0 +1,42 @@
+<DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Table</title>
+        <style>
+            table, th, td{
+                border: 1px solid;
+            }
+        </style>
+    </head>
+    
+    
+        <body>
+            
+            <table style="width:100%">
+                <tr>
+                    <th>Name </th>
+                    <th>Pog</th>
+                    <th>Years</th>
+                </tr>
+                <tr>
+                    <td>dsad</td>
+                    <td>Кdad</td>
+                    <td>15</td>
+                </tr>
+                <tr>
+                    <td>joke</td>
+                    <td>pog</td>
+                    <td>15</td>
+                </tr>
+            </table>
+ 
+
+ 
+
+
+        </body>
+    
+    
+    
+    </html>
