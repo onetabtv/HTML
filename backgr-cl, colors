@@ -1,0 +1,55 @@
+<!Doctype html>
+<html>
+<head>
+    <meta charset="UTF-8"
+    
+</head>
+<style>
+  table, th, td {
+  border: 1px solid black;
+}
+body{
+background-color: blue;
+}
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: pink;
+  text-align: center;
+  background-color: brown;
+}
+
+</style>
+ 
+
+<body>
+<h1>This is a Heading</h1>
+<h2> This is a SubHeading</p>
+<hr>
+  
+    <th><p>Bla dhu  dhsbdyawdb dawydbawydga v dyadu d dayd wucajbegj f fefjeuf ecejvje9vnci ciecjei mejb djche cjencuehc mxin nxj dcbehabcw c dhbahf kino.</p>
+<hr>
+<img src="jplenio_lake" alt="That was a linux screensaver!" width="175" height="200">
+<hr>
+<tr>
+    <a href="https://eune.leagueoflegends.com/en-pl/news/game-updates/patch-10-20-notes/">Link1</a>
+    <a href="https://eune.leagueoflegends.com/en-pl/news/game-updates/patch-10-20-notes/">Link2</a>
+    <a href="https://eune.leagueoflegends.com/en-pl/news/game-updates/patch-10-20-notes/">Link3</a>
+    <a href="https://eune.leagueoflegends.com/en-pl/news/game-updates/patch-10-20-notes/">Link4</a>
+  
+
+
+</body>
+ 
+
+
+ 
+
+</html>
